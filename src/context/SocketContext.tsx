@@ -1,7 +1,7 @@
 import { DrawingData } from "@/types/app"
 import {
-    SocketEvent,
     SocketContext as SocketContextType,
+    SocketEvent,
     SocketId,
 } from "@/types/socket"
 import { RemoteUser, USER_STATUS, User } from "@/types/user"
